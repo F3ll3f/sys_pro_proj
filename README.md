@@ -1,5 +1,7 @@
 # sys_pro_proj
 
+Eleftherios Bolkas
+
 This is a project made for a System Programming course in the Department of Informatics and Telecommunications in the National And Kapodistrian University of Athens.
 
 This project consists of 3 parts. Each part includes in its folder a "README.txt" that provides a detailed explanation of the respective part of the project and of its implementation. Brief description of each part: 
